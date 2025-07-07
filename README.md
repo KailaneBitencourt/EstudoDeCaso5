@@ -28,6 +28,6 @@ Uma escola precisa gerenciar as pessoas que fazem parte de sua comunidade escola
 - Criação de uma lista mista com objetos de `Professor` e `Aluno`.
 - Exibição dos dados de cada pessoa da lista utilizando **polimorfismo**, ou seja, chamando o método `exibirDados()` de forma genérica.
 
-## 💻 Exemplo de Uso
+
 
 
